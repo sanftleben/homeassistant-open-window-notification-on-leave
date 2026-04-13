@@ -1,5 +1,7 @@
 # Notify Open Sensors When Away – Home Assistant Blueprint
 
+[![Import Blueprint](https://my.home-assistant.io/badges/blueprint_import.svg)](https://my.home-assistant.io/redirect/blueprint_import/?blueprint_url=https%3A%2F%2Fraw.githubusercontent.com%2Fsanftleben%2Fhomeassistant-open-window-notification-on-leave%2Frefs%2Fheads%2Fmain%2Fopen-window-notification.yml)
+
 A Home Assistant automation blueprint that sends a notification for every open door or window sensor the moment all tracked persons have left home.
 
 ---
