@@ -1,0 +1,1 @@
+# homeassistant-open-window-notification-on-leave
